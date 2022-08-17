@@ -3,13 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PC01/Desktop/BottomNavigationVIew/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.234" />
         <entry key="..\:/Users/PC01/Desktop/BottomNavigationVIew/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
         <entry key="..\:/Users/PC01/Desktop/BottomNavigationVIew/app/src/main/res/drawable/ic_baseline_library_books_24.xml" value="0.1" />
+        <entry key="..\:/Users/PC01/Desktop/BottomNavigationVIew/app/src/main/res/drawable/ic_launcher_background.xml" value="0.234" />
         <entry key="..\:/Users/PC01/Desktop/BottomNavigationVIew/app/src/main/res/drawable/menu_selector.xml" value="0.1" />
         <entry key="..\:/Users/PC01/Desktop/BottomNavigationVIew/app/src/main/res/layout-v23/activity_main.xml" value="0.30092592592592593" />
-        <entry key="..\:/Users/PC01/Desktop/BottomNavigationVIew/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/PC01/Desktop/BottomNavigationVIew/app/src/main/res/layout/activity_main.xml" value="0.2481012658227848" />
         <entry key="..\:/Users/PC01/Desktop/BottomNavigationVIew/app/src/main/res/layout/fragment_first.xml" value="0.30092592592592593" />
         <entry key="..\:/Users/PC01/Desktop/BottomNavigationVIew/app/src/main/res/layout/fragment_seconde.xml" value="0.30092592592592593" />
+        <entry key="..\:/Users/PC01/Desktop/BottomNavigationVIew/app/src/main/res/layout/fragment_third.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/PC01/Desktop/BottomNavigationVIew/app/src/main/res/menu/menu_selector.xml" value="0.1" />
         <entry key="..\:/Users/PC01/Desktop/BottomNavigationVIew/app/src/main/res/menu/nav_menu.xml" value="0.1" />
       </map>
